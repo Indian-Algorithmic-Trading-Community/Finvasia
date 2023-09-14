@@ -1,5 +1,5 @@
 # Finvasia
-All Codes Which Will Help You Do Algorithmic Trading With Zerodha Broker
+All Codes Which Will Help You Do Algorithmic Trading With Finvasia Broker
 
 
 #### License
